@@ -1,0 +1,10 @@
+*.idea/
+*.vs
+*.env
+*.log
+*.jsonl
+/logs/
+*.venv
+__pycache__/
+*.out
+*.so
